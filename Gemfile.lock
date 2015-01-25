@@ -1,0 +1,9 @@
+GEM
+  specs:
+    ruby-opencv (0.0.13)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-opencv
